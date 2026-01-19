@@ -1,4 +1,5 @@
-Predictive Healthcare Analytics for Breast Cancer Detection
+# **Predictive Healthcare Analytics for Breast Cancer Detection**
+
 
 This project focuses on building a machine learning–based predictive system to assist in the early detection of breast cancer using medical diagnostic data. The goal was to accurately classify tumors as benign or malignant by analyzing various tumor-related features.
 
